@@ -1,0 +1,15 @@
+#square {
+  height: 100px;
+  width: 100px;
+}
+
+.greyBorder {
+  border: 1px solid grey;
+  background-color: white;
+}
+
+.blackBorder {
+  border: 1px solid grey;
+  background-color: black;
+  color: black;
+}

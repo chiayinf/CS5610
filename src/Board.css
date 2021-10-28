@@ -1,0 +1,6 @@
+#board {
+  display: grid;
+  /* for the number of boxes in a col*/
+  grid-template-columns: repeat(2, 100px);
+  grid-template-rows: repeat(2, 100px);
+}
